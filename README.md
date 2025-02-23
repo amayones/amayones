@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amayones</h1>
 <h3 align="center">Web Developer from Indonesia | Exploring Full-Stack with LTF Stack</h3>
+<h4 align="center">
+  Passionate about building efficient web applications with Laravel, Livewire, Filament, and REST API. Currently diving deeper into Full-Stack Development using the LTF Stack (Laravel, Tailwind, Filament) to enhance both frontend and backend capabilities.
+</h4>
+<br>
 
 - 🔭 I’m currently studying at **SMKN 2 Kota Sukabumi**
 
