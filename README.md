@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Amayones</h1>
-<h3 align="center">Web Developer from Indonesia | Exploring Full-Stack with LTF Stack</h3>
-<h4 align="center">
-  Passionate about building efficient web applications with Laravel, Livewire, Filament, and REST API. Currently diving deeper into Full-Stack Development using the LTF Stack (Laravel, Tailwind, Filament) to enhance both frontend and backend capabilities.
+<img align="left" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajIxcGVhMWloaW1mM20xZjY2NXBtcHVqMHExbGo3eW5uNG1vNjVpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vRjmnBCO2T8B97O/giphy.gif"/>
+<h3 align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;Web Developer from Indonesia | Exploring Full-Stack with LTF Stack
+</h3>
+<h4 align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;Passionate about building efficient web applications with Laravel, Livewire, Filament, and REST API. 
+  &nbsp;&nbsp;&nbsp;&nbsp;Currently diving deeper into Full-Stack Development using the LTF Stack (Laravel, Tailwind, Filament) to
+  &nbsp;&nbsp;&nbsp;&nbsp;enhance both frontend and backend capabilities.
 </h4>
+
 <br>
 
 - 🔭 I’m currently studying at **SMKN 2 Kota Sukabumi**
@@ -21,3 +27,4 @@
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amayones&show_icons=true&locale=en&layout=compact" alt="amayones" /></p>
+
