@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amayones</h1>
-<img align="left" height="150" src="https://imgur.com/a/rsGbx6v"/>
+<img align="left" height="150" src="https://i.imgur.com/M0V5WZi.gif"/>
 <h3 align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;Web Developer from Indonesia | Exploring Full-Stack with LTF Stack
 </h3>
