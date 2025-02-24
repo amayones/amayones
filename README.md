@@ -3,7 +3,7 @@
   Web Developer from Indonesia | Exploring Full-Stack with LTF Stack
 </h2>
 <h4 align="center">
-  Passionate about building efficient web applications with Laravel, Livewire, Filament, and REST API. Currently diving deeper into Full-Stack Development using the LTF Stack (Laravel, Tailwind, Filament) to enhance both frontend and backend capabilities.
+  Passionate about building efficient web applications with Laravel, Livewire, Filament, and REST API. Currently diving deeper into Full-Stack Development using the LTF Stack (Livewire, Tailwind, Filament) to enhance both frontend and backend capabilities.
 </h4>
 
 <br>
