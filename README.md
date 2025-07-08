@@ -7,7 +7,7 @@
 
 <p align="center">
   Passionate about building efficient web applications using <strong>Laravel, Livewire, Filament</strong>, and REST API.<br>
-  Currently diving deeper into Full-Stack Development with the <strong>LTF Stack</strong> (Livewire, Tailwind, Filament) to enhance both frontend and backend capabilities.
+  Currently diving deeper into Full-Stack Development with the <strong>Full-Stack Stack</strong> to enhance both frontend and backend capabilities.
 </p>
 
 ---
