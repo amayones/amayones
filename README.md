@@ -2,7 +2,7 @@
 
 <h3 align="center">
   👨‍💻 Web Developer from Indonesia <br>
-  🚀 Exploring Full-Stack with the LTF Stack
+  🚀 Exploring Full-Stack 
 </h3>
 
 <p align="center">
