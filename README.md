@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  Passionate about building efficient web applications using <strong>Laravel, Livewire, Filament</strong>, and REST API.<br>
+  Passionate about building efficient web applications using.
   Currently diving deeper into Full-Stack Development with the <strong>Full-Stack</strong> to enhance both frontend and backend capabilities.
 </p>
 
