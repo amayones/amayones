@@ -16,8 +16,7 @@
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajIxcGVhMWloaW1mM20xZjY2NXBtcHVqMHExbGo3eW5uNG1vNjVpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vRjmnBCO2T8B97O/giphy.gif"/>
 
-- 🎓 Currently studying at **SMKN 2 Kota Sukabumi**  
-- ☁️ Learning **Cloud Technologies with AWS**  
+- ☁️ Learning **Cloud Technologies**  
 - 📧 Reach me at **mayonedrive1@gmail.com**
 
 ---
